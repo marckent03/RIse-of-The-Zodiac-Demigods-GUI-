@@ -12,4 +12,3 @@ public class Main {
         objPlayer.showInfo();
         scanner.close();
     }
-}
